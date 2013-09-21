@@ -1,8 +1,5 @@
-<html>
-<body>
+<?php
 
-Welcome <?php echo $_POST["name"]; ?>! <br>
-Your email address is: <?php echo $_POST["email"]; ?>
+	$age = 10;
 
-</body>
-</html>
+?>
